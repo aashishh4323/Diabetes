@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Model artifacts
+model/
+*.pkl
+
+# Virtual env
+venv/
+.env/
